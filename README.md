@@ -1,1 +1,3 @@
-# CSC4110-assignment1 TEST
+# gj4652
+# Joe Bucciero
+# This repository is a work in progress for assignment 1
